@@ -1,0 +1,4 @@
+com\bot\dominika\commands\AskCommand.class
+com\bot\dominika\commands\SlashCommands.class
+com\bot\dominika\events\Events.class
+com\bot\dominika\Main.class
